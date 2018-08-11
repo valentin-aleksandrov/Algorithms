@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms using c++
+Algorithms using c and c++
