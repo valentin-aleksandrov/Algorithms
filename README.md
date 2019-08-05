@@ -1,2 +1,7 @@
-# Algorithms
-Algorithms using c and c++
+# Data Structures and Algorithms
+Used languages:
+```
+c
+c++
+JavaScript
+```
