@@ -6,7 +6,9 @@ export function maxProfit(prices: number[]): number {
       const innerElement = prices[k];
       const difference = innerElement - element;
 
-      maxProfitValue = Math.max(difference, maxProfitValue);
+      if (difference > maxProfitValue) {
+        maxProfitValue = difference;
+      }
     }
   }
   return maxProfitValue;
