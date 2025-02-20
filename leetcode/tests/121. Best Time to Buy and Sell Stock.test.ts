@@ -4446,7 +4446,8 @@ describe("121. Best Time to Buy and Sell Stock", () => {
     expect(maxProfit(input)).toBe(999);
   });
 
-  it("should return max profit between two days that are separate by a large amount of days scenario 2", () => {
+  it("should return max profit between two days that are separate by a large amount of days under 1500 Ms", () => {
+    const startedAt = Date.now();
     const input = [
       983, 341, 957, 541, 470, 660, 118, 742, 334, 822, 165, 145, 730, 656, 567,
       25, 684, 113, 351, 295, 468, 918, 587, 4, 399, 220, 11, 222, 777, 127,
@@ -8943,5 +8944,8 @@ describe("121. Best Time to Buy and Sell Stock", () => {
       846, 887, 763, 627, 287, 534, 92, 965, 172, 423,
     ];
     expect(maxProfit(input)).toBe(999);
+
+    const endedAt = Date.now();
+    expect(endedAt - startedAt).toBeLessThanOrEqual(1500);
   });
 });
