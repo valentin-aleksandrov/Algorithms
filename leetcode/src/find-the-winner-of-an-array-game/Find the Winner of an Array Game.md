@@ -10,7 +10,7 @@ Return the integer which will win the game.
 
 It is guaranteed that there will be a winner of the game.
 
-Example 1:
+## Example 1:
 
 Input: arr = [2,1,3,5,4,6,7], k = 2
 Output: 5
