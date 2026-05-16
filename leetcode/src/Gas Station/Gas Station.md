@@ -8,7 +8,7 @@ You have a car with an unlimited gas tank and it costs cost[i] of gas to travel 
 
 Given two integer arrays gas and cost, return the starting gas station's index if you can travel around the circuit once in the clockwise direction, otherwise return -1. If there exists a solution, it is guaranteed to be unique
 
-Example 1:
+## Example 1:
 
 Input: gas = [1,2,3,4,5], cost = [3,4,5,1,2]
 Output: 3
