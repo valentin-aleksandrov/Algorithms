@@ -6,7 +6,7 @@ Given an array of integers citations where citations[i] is the number of citatio
 
 According to the definition of h-index on Wikipedia: The h-index is defined as the maximum value of h such that the given researcher has published at least h papers that have each been cited at least h times.
 
-Example 1:
+## Example 1:
 
 Input: citations = [3,0,6,1,5]
 Output: 3
