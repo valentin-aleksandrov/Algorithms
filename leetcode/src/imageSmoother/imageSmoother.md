@@ -6,7 +6,7 @@ An image smoother is a filter of the size 3 x 3 that can be applied to each cell
 
 Given an m x n integer matrix img representing the grayscale of an image, return the image after applying the smoother on each cell of it.
 
-Example 1:
+## Example 1:
 
 Input: img = [[1,1,1],[1,0,1],[1,1,1]]
 Output: [[0,0,0],[0,0,0],[0,0,0]]
