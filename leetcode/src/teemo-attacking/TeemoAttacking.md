@@ -8,7 +8,7 @@ You are given a non-decreasing integer array timeSeries, where timeSeries[i] den
 
 Return the total number of seconds that Ashe is poisoned.
 
-Example 1:
+## Example 1:
 
 Input: timeSeries = [1,4], duration = 2
 Output: 4
