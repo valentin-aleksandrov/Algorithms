@@ -12,7 +12,7 @@ You may assume that the given expression is always valid. All intermediate resul
 
 Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval().
 
-Example 1:
+## Example 1:
 
 Input: s = "3+2\*2"
 Output: 7
