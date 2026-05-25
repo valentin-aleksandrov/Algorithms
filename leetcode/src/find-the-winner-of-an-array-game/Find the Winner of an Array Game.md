@@ -21,7 +21,8 @@ Round | arr | winner | win_count
 3 | [3,5,4,6,7,1,2] | 5 | 1
 4 | [5,4,6,7,1,2,3] | 5 | 2
 So we can see that 4 rounds will be played and 5 is the winner because it wins 2 consecutive games.
-Example 2:
+
+## Example 2:
 
 Input: arr = [3,2,1], k = 10
 Output: 3
