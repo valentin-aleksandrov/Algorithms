@@ -20,7 +20,8 @@ Travel to station 1. Your tank = 7 - 3 + 2 = 6
 Travel to station 2. Your tank = 6 - 4 + 3 = 5
 Travel to station 3. The cost is 5. Your gas is just enough to travel back to station 3.
 Therefore, return 3 as the starting index.
-Example 2:
+
+## Example 2:
 
 Input: gas = [2,3,4], cost = [3,4,3]
 Output: -1
