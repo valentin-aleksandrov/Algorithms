@@ -24,7 +24,7 @@ For the points (0,0), (0,2), (2,0), (2,2): floor((100+200+200+50)/4) = floor(137
 For the points (0,1), (1,0), (1,2), (2,1): floor((200+200+50+200+100+100)/6) = floor(141.666667) = 141
 For the point (1,1): floor((50+200+200+200+200+100+100+100+100)/9) = floor(138.888889) = 138
 
-Constraints:
+## Constraints:
 
 m == img.length
 n == img[i].length
