@@ -16,7 +16,8 @@ Note: You are not allowed to use any built-in function which evaluates strings a
 
 Input: s = "3+2\*2"
 Output: 7
-Example 2:
+
+## Example 2:
 
 Input: s = " 3/2 "
 Output: 1
